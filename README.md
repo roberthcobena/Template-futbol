@@ -1,2 +1,2 @@
 # Ganaton
- Sitio Oficial Ganatón
+Template para sitios deportivos
